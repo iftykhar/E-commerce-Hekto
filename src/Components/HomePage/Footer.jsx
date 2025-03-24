@@ -112,7 +112,7 @@ const Footer = () => {
       <div className="h-auto w-full bg-[#e7e3f8] flex justify-center items-center py-4">
         <div className="container mx-auto flex flex-wrap justify-center lg:justify-between items-center px-5 gap-4">
           <p className="font-Lato font-semibold text-[16px] text-[#9DA0AE] text-center w-full lg:w-auto">
-            © Fahad Bin Siddique - All Rights Reserved
+            © iftykhar alam - All Rights Reserved
           </p>
 
           <div className="flex justify-center gap-4">
