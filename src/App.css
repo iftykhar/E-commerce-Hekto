@@ -1,0 +1,86 @@
+/* Slick Next Arrow */
+button.slick-arrow.slick-next {
+    width: 40px !important;
+    height: 40px !important; 
+    background-color: #f964b9 !important;
+    border-radius: 50%; 
+    z-index: 1000; 
+    border: none;
+  }
+  
+  button.slick-arrow.slick-prev {
+    width: 40px !important;
+    height: 40px !important;
+    background-color: #f964b9 !important;
+    border-radius: 50%; 
+    z-index: 1000; 
+    border: none;
+  }
+  
+  button.slick-arrow:before {
+    color: white !important; 
+    font-size: 18px !important; 
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    button.slick-arrow.slick-prev,
+    button.slick-arrow.slick-next {
+      width: 30px !important;
+      height: 30px !important;
+    }
+  
+    button.slick-arrow:before {
+      font-size: 14px !important;
+    }
+  }
+  
+  .slick-slide {
+    padding: 0 20px; 
+  }
+  
+  .slick-list {
+    margin: 0 -10px; 
+  }
+
+  .react-tabs__tab-list {
+    border-bottom: none !important ;
+    /* border-bottom: #f964b9 1px solid !important;     */
+     /* Removes the underline */
+    
+  }
+  
+  .react-tabs__tab {
+    border: none !important; /* Removes the border around the tab */
+    outline: none !important; /* Removes any focus outline */
+    
+  }
+  
+  .react-tabs__tab--selected {
+    outline: none !important; /* Ensures no outline on focus */
+    border: none !important;
+  }
+  .react-tabs__tab:focus {
+    outline: none !important; 
+    border: none !important;
+  }
+
+  .react-tabs__tab {
+    color: #151875; 
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  .react-tabs__tab--selected {
+    color: #fb2e86 ; /* Active tab text color */
+    /* Adds underline */
+    /* text-underline-offset: 4px; */
+    /* align-items: center; */
+    gap: 4px; /* Space between text and icon */
+  }
+  
+ 
+  
+  
+  
+  
