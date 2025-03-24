@@ -50,7 +50,7 @@ git clone https://github.com/iftykhar/E-commerce-Hekto.git
 
 ## 🎯 Live Demo
 Hekto is deployed on **Vercel**. You can check it out here:
-👉 [Live Demo](#) *(https://e-commerce-hekto-ljo9p9ta9-iftykhar-alams-projects.vercel.app/)*
+👉 [Live Demo](#) *(https://e-commerce-hekto.vercel.app/)*
 
 ## 📜 License
 This project is licensed under the **MIT License**.
