@@ -58,8 +58,8 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 For any queries or collaboration opportunities, feel free to reach out: 
 📧 Email: s.m.ifty49@gmail.com
-🔗 GitHub: iftykhar
-🔗 LinkedIn: iftykhar-alam
+🔗 GitHub: github.com/iftykhar
+🔗 LinkedIn: linkedin.com/in/iftykhar-alam
 
 ---
 
