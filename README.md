@@ -13,8 +13,8 @@ Hekto is a **fully-featured general eCommerce marketplace** designed to sell a v
 - ✅ **SEO Optimized with React.js**
 - ✅ **Fast Performance with Lazy Loading**
 - ✅ **Unique Features:**
-- Scroll toTop Button 
-- (More features can be added in future updates)
+  - Scroll to Top Button
+  - (More features can be added in future updates)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, React.js, Tailwind CSS, JavaScript
@@ -28,7 +28,8 @@ To get started with this project, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 ```sh
- git clone git@github.com:fahadbinsiddique/hektoproject.git
+git clone https://github.com/iftykhar/E-commerce-Hekto.git
+
 ```
 
 ### **2️⃣ Navigate to Project Directory**
@@ -55,10 +56,10 @@ Hekto is deployed on **Vercel**. You can check it out here:
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any queries or collaboration opportunities, feel free to reach out:
-📧 Email: [fahad.bin.siddique345@gmail.com](mailto:fahad.bin.siddique345@gmail.com)
-🔗 GitHub: [fahadbinsiddique](https://github.com/fahadbinsiddique)
-🔗 LinkedIn: [fahadbinsiddique](https://www.linkedin.com/in/fahadbinsiddique/)
+For any queries or collaboration opportunities, feel free to reach out: 
+📧 Email: s.m.ifty49@gmail.com
+🔗 GitHub: iftykhar
+🔗 LinkedIn: iftykhar-alam
 
 ---
 
